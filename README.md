@@ -1,3 +1,7 @@
 # E_NEXUS_-WORKSHOP
 
 FOLKS MENTION YOUR NAME AS BRANCH AND IN THIS READ ME ADD THE REGISTRATION NUMBER FOLK. ALL THE BEST
+
+Name: Chamarthi Venkata Sai Pavan Kumar
+College: Kalasalingam Academy of Research and Education
+Workshop Date: 10/2/2026
